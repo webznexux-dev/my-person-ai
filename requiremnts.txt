@@ -1,0 +1,6 @@
+pyrogram 
+pustill
+fastapi
+kreu
+pydantic
+uvicorn
